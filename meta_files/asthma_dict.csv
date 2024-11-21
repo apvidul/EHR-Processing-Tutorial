@@ -1,0 +1,390 @@
+STR,CUI
+asthmatics,C0004096
+asthma nos,C0004096
+asthma disorders,C0004096
+unspecified asthma,C0004096
+bronchitic asthma,C0004096
+bronchial asthma,C0004096
+bronchial asthma nos,C0004096
+asthma unspecified,C0004096
+asthma bronchial,C0004096
+airway hyperreactivity,C0004096
+asthma,C0004096
+asthmatic,C0004096
+asthmas,C0004096
+br asthma,C0004096
+wheezes,C0043144
+wheeze,C0043144
+wheezing,C0043144
+reported wheezing,C0043144
+wheezings,C0043144
+wheezing nos,C0043144
+wheezy,C0043144
+dyspnoea nos,C0013404
+abnormal breathing,C0013404
+s o b,C0013404
+breathing shortness,C0013404
+respiratory difficulty,C0013404
+respiration difficult,C0013404
+dyspnoeas,C0013404
+breathless,C0013404
+respiratory difficulties,C0013404
+breathlessness,C0013404
+breathing difficult,C0013404
+breath shortnesses,C0013404
+dyspnoea,C0013404
+dib difficulty in breathing,C0013404
+breathlessnesses,C0013404
+breathing difficulty,C0013404
+difficult to breathe,C0013404
+shortness of breath,C0013404
+breath shortness,C0013404
+trouble breathing,C0013404
+tightness of breath,C0013404
+short of breath,C0013404
+dyspneas,C0013404
+breathing difficulties,C0013404
+dyspnea,C0013404
+difficulty breathing,C0013404
+shortness of breath dyspnea,C0013404
+sob shortness of breath,C0013404
+difficult breathing,C0013404
+dyspnea nos,C0013404
+dyspnea unspecified,C0013404
+shortness of breath dyspnoea,C0013404
+gastro esophageal reflux,C0017168
+gastroesophageal reflux disease,C0017168
+reflux acid,C0017168
+esophageal reflux disease,C0017168
+gord gastro esophageal reflux disease,C0017168
+oesophageal reflux,C0017168
+reflux gastro oesophageal,C0017168
+reflux gastro esophageal,C0017168
+gastro oesophageal reflux,C0017168
+gastro esophageal reflux diseases,C0017168
+gastro oesophageal reflux disease,C0017168
+acid reflux disease,C0017168
+gastro esophageal reflux disease,C0017168
+acid reflux,C0017168
+gastroesophageal reflux,C0017168
+acid reflux gastric,C0017168
+diseases esophageal reflux,C0017168
+gor gastro oesophageal reflux,C0017168
+reflux disease esophageal,C0017168
+disease gastro esophageal reflux,C0017168
+gastric reflux,C0017168
+reflux esophageal,C0017168
+reflux disease gastro esophageal,C0017168
+esophageal reflux nos,C0017168
+reflux gastric acid,C0017168
+gerd gastro esophageal reflux disease,C0017168
+gastresophageal reflux disease,C0017168
+cardioesophageal relaxation gastroesophageal reflux,C0017168
+gastric acid reflux disease,C0017168
+gord gastro oesophageal reflux disease,C0017168
+gastrooesophageal reflux disease,C0017168
+gastrooesophageal reflux,C0017168
+reflux gastroesophageal,C0017168
+ge reflux,C0017168
+gastric acid reflux,C0017168
+gor gastro esophageal reflux,C0017168
+esophageal reflux,C0017168
+asthma attacks,C0347950
+asthmatic attack,C0347950
+asthma attack,C0347950
+asthma allergic,C0155877
+atopic asthma,C0155877
+extrinsic allergic asthma,C0155877
+asthma atopic,C0155877
+asthma extrinsic,C0155877
+allergic asthma,C0155877
+allergic atopic asthma,C0155877
+asthma allergic nos,C0155877
+extrinsic asthma,C0155877
+chest symptom pressure,C0438716
+allergy to pollen,C0018621
+allergic rhinitis caused by pollens,C0018621
+rhinitis seasonal allergic,C0018621
+allergy to pollens,C0018621
+seasonal allergy,C0018621
+seasonal allergies,C0018621
+allergies pollen,C0018621
+seasonal allergic reaction,C0018621
+seasonal allergic rhinitis,C0018621
+seasonal allergic rhinitides,C0018621
+hayfever,C0018621
+allergic rhinitis due to pollens,C0018621
+allergic to pollens,C0018621
+allergic rhinitis caused by pollen,C0018621
+allergy pollen,C0018621
+fever hay,C0018621
+pollenosis,C0018621
+allergic rhinitides seasonal,C0018621
+pollinosis,C0018621
+spasmodic rhinorrhea,C0018621
+feeling of chest tightness,C0232292
+feels tightness in the chest,C0232292
+tightness chest,C0232292
+tightness in chest,C0232292
+tightness of chest,C0232292
+in chest tightness,C0232292
+chest symptom tightness,C0232292
+constricted chest,C0232292
+tight chest,C0232292
+chest tightness,C0232292
+chest tightness of,C0232292
+constriction chest,C0232292
+moderate asthma,C0581125
+asthma moderate,C0581125
+allergy seasonal,C0018621
+spasmodic rhinorrhoea,C0018621
+rhinitides seasonal allergic,C0018621
+pollen allergies,C0018621
+rhinitis allergic seasonal,C0018621
+hay fever,C0018621
+allergic rhinitis due to pollen,C0018621
+pollen allergy,C0018621
+allergic rhinitis seasonal,C0018621
+pollinoses,C0018621
+chronic obstructive bronchopneumopathy,C0024117
+pulmonary disease chronic obstructive,C0024117
+chronic airway obstruction,C0024117
+chronic pulmonary obstruction,C0024117
+chronic obstructive lung disease,C0024117
+hyperactive airway disease,C0024117
+chronic obstructive lung disease nos,C0024117
+chronic obstr pulmon disease,C0024117
+copd nos,C0024117
+airway obstruction chronic,C0024117
+chronic irreversible airway obstruction,C0024117
+chronic obstructive pulmonary disease unspecified,C0024117
+chronic airways disease,C0024117
+copd chronic obstructive pulmonary disease,C0024117
+chronic obstructive airway disease,C0024117
+chronic airflow limitation,C0024117
+chronic obstructive pulmonary disease,C0024117
+chronic airway disease,C0024117
+chronic obstructive pulmonary disease nos,C0024117
+cafl chronic airflow limitation,C0024117
+chronic obstructive airways disease,C0024117
+chronic obstructive airway disease nos,C0024117
+chronic obstructive pulmonary diseases,C0024117
+chronic obstr airways disease,C0024117
+chronic obstruct airways disease,C0024117
+coad chronic obstructive airways disease,C0024117
+cal chronic airflow limitation,C0024117
+cold chronic obstructive lung disease,C0024117
+chronic obstr lung disease,C0024117
+asthma acute,C0582415
+acute asthma,C0582415
+polyp of the nasal cavity,C0027430
+polyps nasal,C0027430
+polyp nasal,C0027430
+nose polyp,C0027430
+nasal polyp unspecified,C0027430
+nasal polyp nos,C0027430
+nasals polyps,C0027430
+polys of nose,C0027430
+polyp of nasal cavity nos,C0027430
+unspecified nasal polyp,C0027430
+nasal polyps,C0027430
+nasal cavity polyps,C0027430
+polyposis nasal,C0027430
+polyp of nasal cavity,C0027430
+nose polyps,C0027430
+cavity nasal polyps,C0027430
+nasal polyp,C0027430
+nasal polyp anterior,C0027430
+nasal cavity polyp,C0027430
+nasal polyposis,C0027430
+polyposis nasi,C0027430
+polyp in anterior nares,C0027430
+pressure chest,C0438716
+chest pressure,C0438716
+pressure in chest,C0438716
+rhinitis allergic atopic,C0002103
+exacerbation of asthma,C0349790
+asthma exacerbation,C0349790
+of asthma exacerbation,C0349790
+asthma attack,C0349790
+acute exacerbation of asthma,C0349790
+asthma exacerbations,C0349790
+exacerbation asthma,C0349790
+acute asthma,C0349790
+asthma with acute exacerbation,C0349790
+acute asthma exacerbation,C0349790
+chronic asthma,C0877430
+asthma chronic,C0877430
+asthma severe,C0581126
+severe asthma,C0581126
+asthma exacerbation acute,C0349790
+atopic rhinitis,C0002103
+rhinitis atopic,C0002103
+immunoglobulin e mediated allergic asthma,C1827849
+ige mediated asthma,C1827849
+ige mediated allergic asthma,C1827849
+asthma allergic ige mediated,C1827849
+allergic atopic asthma,C1827849
+atopic asthma,C1827849
+mild asthma,C0581124
+exercise induced asthma,C0004099
+exertional asthma,C0004099
+asthma exercised induced,C0004099
+exercised induced asthma,C0004099
+asthma induced exercise,C0004099
+eia exercise induced asthma,C0004099
+asthmas exercise induced,C0004099
+asthma exercise induced,C0004099
+exercise induced asthmas,C0004099
+asthma childhood,C0264408
+childhood asthma,C0264408
+asthma in children,C0264408
+childhood asthma nos,C0264408
+asthma mild,C0581124
+asthma mild persistent,C1960046
+allergic rhinitis unspecified,C2607914
+allergic rhinitides,C2607914
+ar allergic rhinitis,C2607914
+allergic rhinitis,C2607914
+allergic rhinitis cause unspecified,C2607914
+rhinitides allergic,C2607914
+allergic rhinosinusitis,C2607914
+atopic rhinitis,C2607914
+rhinallergosis,C2607914
+allergic rhinitis nos,C2607914
+rhinitis allergic,C2607914
+allergic rhinitis due to allergen,C2607914
+rhinitis allergic nos,C2607914
+moderate persistent asthma nos,C1960047
+moderate persistent asthma,C1960047
+intermittent asthma,C1740754
+mild persistent asthma,C1960046
+mild persistent asthma nos,C1960046
+wheezing symptom,C0439035
+persistent asthma,C3266628
+asthma persistent,C3266628
+wheezing ctcae,C4553925
+grade 1 dyspnea ctcae,C1557662
+grade 1 dyspnea,C1557662
+asthma resolved,C0581843
+wheezing,C4553925
+dyspnea ctcae,C1963100
+dyspnea,C1963100
+asthma disorder,C0004096
+gastroesophageal reflux disease ctcae,C4553201
+gastroesophageal reflux disease,C4553201
+reflux,C4317146
+acid reflux,C4317146
+gastrointestinal regurgitation,C4317146
+gastrooesophageal reflux,C4317146
+gastroesophageal reflux,C4317146
+gastric reflux,C4317146
+oesophageal reflux,C4317146
+gastro oesophageal reflux,C4317146
+esophageal reflux,C4317146
+intermittent asthma,C4282170
+allergic rhinitis,C4552864
+allergic rhinitis ctcae,C4552864
+asthma diagnosis,C0004096
+wheezing finding,C0043144
+wheezing as a symptom,C0043144
+reported wheezing symptom,C0043144
+shortness of breath sob,C0013404
+shortness of breath symptom,C0013404
+difficulty breathing finding,C0013404
+dyspnea finding,C0013404
+difficulty breathing symptom,C0013404
+sob,C0013404
+breath shortness of breath,C0013404
+shortness of breath breath,C0013404
+reflux disease,C0017168
+gastroesophageal reflux disease gerd,C0017168
+gerd,C0017168
+ger,C0017168
+gerd1,C0017168
+gastroesophageal reflux disease disorder,C0017168
+esophageal reflux diagnosis,C0017168
+asthma attack diagnosis,C0347950
+allergic asthma diagnosis,C0155877
+allergic asthma disorder,C0155877
+extrinsic asthma diagnosis,C0155877
+asthma allergic extrinsic,C0155877
+allergic asthma extrinsic,C0155877
+allergic extrinsic asthma,C0155877
+obstructive airways disease chronic,C0024117
+allergic rhinitis caused by pollen disorder,C0018621
+allergy to pollen finding,C0018621
+seasonal allergy finding,C0018621
+seasonal allergic rhinitis disorder,C0018621
+spasmodic rhinorrhea diagnosis,C0018621
+allergic rhinitis due to pollen diagnosis,C0018621
+hay fever diagnosis,C0018621
+allergy to pollen history,C0018621
+allergic rhinitis seasonal due to pollen,C0018621
+rhinitis allergic due to pollen,C0018621
+rhinitis allergic seasonal due to pollen,C0018621
+rhinorrhea spasmodic,C0018621
+chronic obstructive pulmonary disease copd,C0024117
+chronic obstructive lung disease disorder,C0024117
+chronic obstructive pulmonary disease diagnosis,C0024117
+coad,C0024117
+chronic obstructive pulmonary disease finding,C0024117
+acute asthma diagnosis,C0582415
+i feel tightness in my chest,C0232292
+tight chest finding,C0232292
+moderate asthma diagnosis,C0581125
+moderate asthma disorder,C0581125
+acute asthma disorder,C0582415
+exacerbation of asthma disorder,C0349790
+polyp of nasal cavity disorder,C0027430
+nasal cavity polyps diagnosis,C0027430
+nasal polyps diagnosis,C0027430
+severe asthma diagnosis,C0581126
+severe asthma disorder,C0581126
+asthma with acute exacerbation diagnosis,C0349790
+childhood asthma disorder,C0264408
+ige mediated allergic asthma diagnosis,C1827849
+immunoglobulin e mediated allergic asthma disorder,C1827849
+exercise induced asthma disorder,C0004099
+exercise induced asthma diagnosis,C0004099
+childhood asthma diagnosis,C0264408
+allergic rhinitis disorder,C2607914
+mild asthma diagnosis,C0581124
+mild asthma disorder,C0581124
+allergic rhinitis diagnosis,C2607914
+alrh,C2607914
+moderate persistent asthma disorder,C1960047
+moderate persistent asthma diagnosis,C1960047
+intermittent asthma disorder,C1740754
+intermittent asthma diagnosis,C1740754
+wheezing symptom finding,C0439035
+mild persistent asthma disorder,C1960046
+mild persistent asthma diagnosis,C1960046
+persistent asthma disorder,C3266628
+persistent asthma diagnosis,C3266628
+ctcae grade 1 dyspnea shortness of breath,C1557662
+grade 1 dyspnea shortness of breath,C1557662
+ctcae grade 1 dyspnea,C1557662
+intermittent asthma history,C4282170
+asthma resolved finding,C0581843
+dyspnea shortness of breath,C1963100
+dyspnea adverse event,C1963100
+acid reflux finding,C4317146
+reflux oesophageal,C4317146
+intermittent asthma asthma,C4282170
+albuterol,C0001927
+acetylmethylcholine,C0600370
+salbutamol,C0001927
+salbutamol containing product,C0001927
+albuterol containing product,C0001927
+salbutamol substance,C0001927
+product containing salbutamol medicinal product,C0001927
+salbutamolum,C0001927
+bronchodilators albuterol,C0001927
+albuterol medication,C0001927
+methacholine,C0600370
+methacholine containing product,C0600370
+methacholinum,C0600370
+beta methylacetylcholine,C0600370
+methacholine substance,C0600370
+salbutamol product,C0001927
