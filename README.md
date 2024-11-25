@@ -1,5 +1,14 @@
 # Resources for BMIF 300qc
 
+# Usefull tools for Downstream Analysis
+
+1. [ONCE](https://shiny.parse-health.org/ONCE/): A feature generation app that identifies related NLP and codified features based on an input or target disease. For example: PheCodes and CUIs.
+
+2. [KESER Network](https://shiny.parse-health.org/kesernetwork-linkage/): A tool to identify and visualize codified concepts relevant to diseases, medications, and procedures (e.g., PheCodes, RxNorm).
+
+3. [NILE](https://celehs.hms.harvard.edu/software/NILE.html): An NLP tool for fast and efficient processing of clinical notes to UMLS CUIs. Note: You will need a UMLS License to use this tool.
+
+
 
 ## Accessing a Jupyter Notebook on O2 server from your local machine
 
