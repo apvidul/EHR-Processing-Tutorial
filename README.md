@@ -39,7 +39,7 @@ srun -t 0-00:40 --pty -p interactive --mem=12G --x11 --tunnel 50001:50001 /bin/b
 ### 4. Navigate to Your Workspace and Activate Conda
 ```bash
 cd /n/scratch/users/v/va67/EHR_TUTORIAL_WORKSPACE
-conda activate ehr_tutorial
+source activate ehr_tutorial
 ```
 
 ### 4. Start the Jupyter Notebook Server on O2
