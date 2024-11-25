@@ -1,6 +1,6 @@
 # Resources for BMIF 300qc
 
-## Usefull tools for Downstream Analysis
+## Tools for Downstream Analysis
 
 1. [ONCE](https://shiny.parse-health.org/ONCE/): A feature generation app that identifies related NLP and codified features based on an input or target disease. For example: PheCodes and CUIs.
 
