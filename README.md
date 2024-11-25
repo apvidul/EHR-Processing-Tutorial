@@ -1,7 +1,7 @@
 # Resources for BMIF 300qc
 
 
-## Accessing a Jupyter Notebook on the o2 Server from Your Local Machine
+## Accessing a Jupyter Notebook on O2 server from your local machine
 
 Follow the steps below to set up and access a Jupyter Notebook running on the o2 server from your local machine.
 
