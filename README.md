@@ -8,7 +8,7 @@
 
 3. [NILE](https://celehs.hms.harvard.edu/software/NILE.html): An NLP tool for fast and efficient processing of clinical notes to UMLS CUIs. Note: You will need a UMLS License to use this tool.
 
-3. [PETEHR](https://pypi.org/project/petehr/): A Python toolkit developed specifically for this tutorial. It is designed to process MIMIC-IV data and generate research-ready datasets. 
+4. [PETEHR](https://pypi.org/project/petehr/): A Python toolkit developed specifically for this tutorial. It is designed to process MIMIC-IV data and generate research-ready datasets. 
 
 
 &nbsp;
