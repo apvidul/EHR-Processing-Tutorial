@@ -12,7 +12,7 @@
 &nbsp;
 
 
-## Accessing a Jupyter Notebook on O2 server from your local machine
+## Accessing Jupyter Notebook on O2 from your local machine
 
 Follow the steps below to set up and access a Jupyter Notebook running on the o2 server from your local machine.
 
