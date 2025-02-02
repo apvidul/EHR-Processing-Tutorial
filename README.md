@@ -27,7 +27,7 @@ Ensure that X11 forwarding is active on your system:
 ### 2. Set Up Local Port Forwarding
 On your **local machine**, run the following command to log in to the `o2` server and set up port forwarding:
 ```bash
-ssh -Y -L 50001:127.0.0.1:50001 o2_username@o2
+ssh -Y -L 50001:127.0.0.1:50001 username@o2.hms.harvard.edu
 ```
 
 ### 3. Request an Interactive Session
