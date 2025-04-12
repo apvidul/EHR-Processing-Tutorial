@@ -42,15 +42,14 @@ cd /n/scratch/users/v/va67/EHR_TUTORIAL_WORKSPACE
 source activate ehr_tutorial
 ```
 
-### 4. Start the Jupyter Notebook Server on O2
+### 5. Start the Jupyter Notebook Server on O2
 ```bash
 jupyter notebook --port=50001 --browser="none"
 ```
 
-### 5. Access the Jupyter Notebook on your Local Machine
+### 6. Access the Jupyter Notebook on your Local Machine
 Open a browser and go to
 http://localhost:50001/tree
 
-### 6. Shut Down the Jupyter Server
-Once you are done, you can stop the Jupyter Notebook server by returning to the terminal where it is running and press:
-Ctrl+C
+### 7. Shut Down the Jupyter Server
+To stop the Jupyter Notebook server, go to the terminal where the session is running and do Ctrl+C
