@@ -1,4 +1,9 @@
-# Resources for BMIF 300qc
+# Resources for BMIF204
+
+## MIMIC-IV Setup Scripts
+```bash
+wget https://raw.githubusercontent.com/apvidul/setup-scripts/refs/heads/main/setup_ehr_tutorial_mimic4_codi_nlp.sh
+```
 
 ## Tools for Downstream Analysis
 
